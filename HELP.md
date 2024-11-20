@@ -1,4 +1,4 @@
-# Getting Started updated v2
+# Getting Started updated v3
 
 ### Reference Documentation  updated
 For further reference, please consider the following sections:
